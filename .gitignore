@@ -1,6 +1,7 @@
 .eslintrc.cjs
 package-lock.json
 vite.config.js
+dist
 
 # Logs
 logs

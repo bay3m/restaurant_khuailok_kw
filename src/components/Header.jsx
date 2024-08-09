@@ -1,7 +1,9 @@
 import React from 'react';
+import Recomendation from './Recomendation';
 
 export default function Header () {
     return (
+        <>
         <header>
             <nav>
                 <div id='nav_left'>
@@ -15,5 +17,8 @@ export default function Header () {
                 </div>
             </nav>
         </header>
+
+        <Recomendation />
+        </>
     );
 };

@@ -1,6 +1,5 @@
 import React from 'react';
 import Handlebars from 'handlebars';
-import addIcon from '../images/add_icon.png'
 
 const templateSource = 
 `
@@ -9,7 +8,9 @@ const templateSource =
             <li class="menu_item">
                 {{this}}
 
-                <img src=${addIcon} alt="add icon"/>
+                <span class="material-symbols-outlined add_symbol">
+                    add
+                </span>
             </li>
         {{/each}}
     </ul>

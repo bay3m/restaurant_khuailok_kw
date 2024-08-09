@@ -1,0 +1,41 @@
+[
+    {
+        "title" : "babi panggang",
+        "imageUrl" : "../images/babi_panggang.jpeg"
+    },
+
+    {
+        "title" : "babi merah",
+        "imageUrl" : "../images/babi_merah.jpeg"
+    },
+
+    {
+        "title" : "fuyunghai",
+        "imageUrl" : "../images/fuyunghai.jpeg"
+    },
+
+    {
+        "title" : "ayam goreng khuailok",
+        "imageUrl" : "../images/ayam_goreng_khuailok.jpeg"
+    },
+
+    {
+        "title" : "udang goreng mentega",
+        "imageUrl" : "../images/udang_goreng_mentega.jpeg"
+    },
+
+    {
+        "title" : "gurame goreng asam manis",
+        "imageUrl" : "../images/gurame_goreng_asam_manis.jpeg"
+    },
+
+    {
+        "title" : "kodok goreng mentega",
+        "imageUrl" : "../images/kodok_goreng_mentega.jpg"
+    },
+
+    {
+        "title" : "kepiting butter",
+        "imageUrl" : "../images/kepiting_butter.jpg"
+    }
+]
