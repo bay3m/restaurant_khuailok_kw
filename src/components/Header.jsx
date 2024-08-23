@@ -7,7 +7,7 @@ export default function Header () {
         <header>
             <nav className='navbar'>
                 <div id='nav_left'>
-                    <img src='#' alt="#" />
+                    <img src='../../images/logo.jpg' alt="#" />
                 </div>
 
                 <div id='nav_right'>

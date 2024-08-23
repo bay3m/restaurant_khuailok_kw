@@ -19,7 +19,6 @@ const MenuList = () => {
                     });
                     return menuObject;
                 }); 
-                // console.log(menu);
             } catch (error) {
                 console.error("error: ", error);
             }
@@ -33,24 +32,25 @@ const MenuList = () => {
         setTimeout(() => {
             setMenu((prevMenu) => {
                 const newMenu = { ...prevMenu };
-                newMenu[category].splice(itemIndex, 1);
-                console.log(newMenu[category])
+                // newMenu[category].splice(itemIndex, 1);
+                newMenu[category] = newMenu[category].filter((item, index) => index !== itemIndex);
+                // console.log(newMenu);
                 return newMenu; 
             });
             setRemovingItem(null);
-        }, 2000);
+        }, 500);
     };
 
     return (
         <ul className="menu_list_wrapper">
-            {Object.keys(menu).map((category, index) => (
-                <li key={index} className="menu_list">
+            {Object.keys(menu).map((category) => (
+                <li key={category} className="menu_list">
                     <h1>{category}</h1>
 
                     <div className="menu_item_wrapper">
                         <ul>
                             {menu[category].map((item, itemIndex) => (
-                                <li key={itemIndex} 
+                                <li key={`${category}-${itemIndex}`} 
                                     className={`menu_item ${removingItem && removingItem.category === category && removingItem.itemIndex === itemIndex ? 'removing' : ''}`}>
                                     
                                     {item}
@@ -66,7 +66,6 @@ const MenuList = () => {
             ))}
         </ul>
     );
-
 };
 
 export default MenuList;
