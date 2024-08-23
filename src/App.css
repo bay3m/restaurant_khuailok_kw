@@ -77,6 +77,13 @@ li.menu_list {
     background-color: gray;
 }
 
+.menu_item.removing {
+    transition: height 2s ease-in-out, width 2s ease-in;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+}
+
 .material-symbols-outlined{
     cursor: pointer;
 }
