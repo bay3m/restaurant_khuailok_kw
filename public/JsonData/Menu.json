@@ -1,0 +1,198 @@
+[   
+    {
+        "lobster" : [
+            "shashimi lobster",
+            "lobster lada hitam",
+            "lobster saus tiram",
+            "lobster stim bawang putih",
+            "lobster stim",
+            "lobster saus padang",
+            "lobster lada garam",
+            "lobster salad"
+        ]
+    },
+
+    {
+        "clam" : [
+            "kerang tauco",
+            "kerang lada hitam",
+            "kerang saus tiram",
+            "kerang stim bawang putih",
+            "kerang stim",
+            "kerang saus padang",
+
+            "lindung stim tausi",
+            "lindung cha fumak",
+            "lindung goreng kering",
+            "lindung lada hitam"
+        ]         
+    },
+
+    {
+        "fish" : [  
+            "sapo hoisom(sea cucumber)",
+            "kerapu stim hongkong",
+            "bawal stim hongkong",
+            "kerapu stim ala khuailok",
+            "kerapu stim tausi",
+            "kerapu stim kiamboy",
+            "gurame goreng tausi",
+            "gurame goreng kering",
+            "gurame goreng tausi",
+            "gurame goreng asam manis",
+            "gurame goreng tauco",
+            "gurame goreng rujak",
+            "gurame goreng kari",
+            "ikan paris asam pedas",
+            "ikan lempah kuning bangka",
+            "ikan asam pedas",
+            "ikan kuah talas",
+            "ikan stim kiamboy"
+        ]
+    },
+
+    {
+        "shrimp" : [
+            "udang goreng mentega",
+            "udang gandum",
+            "udang cabe garam",
+            "udang saus padang",
+            "udang shizuan",
+            "udang telur asin",
+            "udang goreng tepung",
+            "udang mayonaise",
+            "udang rebus",
+            "udang telur asin",
+            "udang mabok"
+        ]
+    },
+
+    {
+        "soup" : [
+            "sup hisit(sirip hiu)",
+            "sup asparagus",
+            "sup jagung",
+
+            "kuah hipiaw",
+            "kuah samkiti",
+            "kuah seafood",
+            "kuah kembang tahu",
+
+            "hotplate kangkung",
+            "hotplate ikan",
+            "hotplate tahu",
+
+            "shabu-shabu set menu"
+        ]
+    },
+
+    {
+        "toad" : [
+            "kodok goreng mentega",
+            "kodok cha sayur asin",
+            "kodok tauco",
+            "kodong goreng tepung",
+            "bistik kodok",
+            "kodok tauco"
+        ]
+    },
+    
+    {
+        "noodles" : [
+            "soun goreng",
+            "kwetiaw goreng",
+            "bihun goreng",
+            "mie goreng ultah",
+            "bihun/kwetiaw/mie/soun goreng seafood",
+            "bihun/kwetiaw/mie/soun goreng sapi",
+            "bihun/kwetaiw siram",
+            "mie/bihun kuah daging",
+            "yi fu mie"
+        ]
+    },
+
+    {
+        "chicken" : [
+            "ayam saus lemon",
+            "ayam nankin",
+            "ayam goreng tepung",
+            "ayam singapore",
+            "ayam madu",
+            "ayam stim obat",
+            "ayam goreng khuailok",
+            "ayam kungpao",
+            "bistik ayam",
+            "ayam pekchamke",
+            "ayam goreng mentega",
+            "kao ji (deep fried whole chicken)"
+        ]
+    },
+
+    {
+        "crab" : [
+            "kepiting stim bawang putih",
+            "kepiting saus padang",
+            "kepiting saus lada hitam",
+            "kepiting saus tiram",
+            "kepiting sapo",
+            "kari kepiting",
+            "kepiting telor asin",
+            "kepiting butter",
+            "fuyunghai"
+        ]
+    },
+
+    {
+        "tofu" : [
+            "angsio tahu",
+            "sapo tahu",
+            "tahu ala khuailok",
+            "muntahu",
+            "mapo tahu",
+            "mun hipiaw",
+            "slada hongking nyong tahu",
+            "hakka style stuffed tofu gado-gado"
+        ]
+    },
+
+    {
+        "vegetables" : [
+            "kapri madu cah bawang putih",
+            "pare cah bawang putih",
+            "pochai cah 3 telur",
+            "tomiau cah bawang putih",
+            "baby buncis sapi szechuan",
+            "baby pokchoi cah jamur",
+            "ginko cah udang",
+            "brokoli scallop",
+            "kailan cah sapi",
+            "kucai cah bawang putih",
+            "seledri cah ginko",
+            "kailan 2 rasa",
+            "tauge cah ikan asin",
+            "kailan scallop kering",
+            "pocai cah jamur",
+            "sayur hitam abalone",
+            "jamur enoki goreng tepung"
+        ]
+    },
+
+    {
+        "pork" : [
+            "babi panggang",
+            "babi merah",
+            "gohyong",
+            "bistik babi",
+            "stim babi hakka",
+            "cukiok asam manis",
+            "mun cukiok",
+            "phaikut goreng kering",
+            "phaikut asam manis",
+            "khew nyuk",
+            "lang pan",
+            "babi goreng wijen",
+            "zhu thew phi (braised pig cheek & ear)",
+            "sate babi"
+        ]
+    }
+]

@@ -47,17 +47,18 @@ function Recomendation() {
             <h1 id="recomendation_title">Our recomendation</h1>
 
             <div id="wrapper">
-                <div className="arrow_wrapper">
-                    <div className="arrow" id="left" onClick={handleLeftClick}></div>
-                </div>
+                
 
                 <div id="outSideBox" style={{ backgroundImage : `url(${data && data[currentIndex].imageUrl})` }}>
+                    <div className="arrow_wrapper">
+                        <div className="arrow" id="left" onClick={handleLeftClick}></div>
+                    </div>
                     <p id="menu_recomendation_name">{data && data[currentIndex].title}</p>
+                    <div className="arrow_wrapper">
+                        <div className="arrow" id="right" onClick={handleRightClick}></div>
+                    </div>
                 </div>
 
-                <div className="arrow_wrapper">
-                    <div className="arrow" id="right" onClick={handleRightClick}></div>
-                </div>
             </div>
         </>
     );

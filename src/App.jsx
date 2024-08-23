@@ -1,12 +1,14 @@
 import './App.css'
-import MenuContainer from './MenuContainer.jsx'
+import Footer from './components/Footer.jsx'
 import Header from './components/Header.jsx'
+import MenuList from './components/MenuList.jsx'
 
 function App() {
   return (
     <>
       <Header/>
-      <MenuContainer />
+      <MenuList />
+      <Footer />
     </>
   )
 };

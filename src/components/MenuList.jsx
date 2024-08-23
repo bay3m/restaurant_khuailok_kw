@@ -1,30 +1,54 @@
-import React from 'react';
-import Handlebars from 'handlebars';
+import { useState, useEffect } from "react";
+import axios from 'axios';
 
-const templateSource = 
-`
-    <ul class="menu_list">
-        {{#each menu}}
-            <li class="menu_item">
-                {{this}}
+const MenuList = () => {
+    const [menu, setMenu] = useState({});
 
-                <span class="material-symbols-outlined add_symbol">
-                    add
-                </span>
-            </li>
-        {{/each}}
-    </ul>
-`;
+    useEffect(() => {
+        const fetchMenu = async () => {
+            try {
+                const response = await axios.get('../JsonData/Menu.json');
+                const results = response.data; 
 
-const compiledTemplate = Handlebars.compile(templateSource);
+                setMenu(() => {
+                    const menuObject = {};
+                    results.forEach((categoryObject) => {
+                        const categoryName = Object.keys(categoryObject)[0];
+                        menuObject[categoryName] = categoryObject[categoryName];
+                    });
+                    return menuObject;
+                }); 
+                // console.log(menu);
+            } catch (error) {
+                console.error("error: ", error);
+            }
+        };
 
-const MenuList = ({ menuItems }) => {
-    const html = compiledTemplate({ menu: menuItems });
+        fetchMenu(); 
+    }, []); 
+
     return (
-        <div>
-            <h1>Menu</h1>
-            <div dangerouslySetInnerHTML={{ __html: html }} />
-        </div>
+        <ul className="menu_list_wrapper">
+            {Object.keys(menu).map((category, index) => (
+                <li key={index} className="menu_list">
+                    <h1>{category}</h1>
+
+                    <div className="menu_item_wrapper">
+                        <ul>
+                            {menu[category].map((item, itemIndex) => (
+                                <li key={itemIndex} className="menu_item">
+                                    {item}
+                                    
+                                    <span className="material-symbols-outlined">
+                                        add
+                                    </span>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+                </li>
+            ))}
+        </ul>
     );
 };
 
