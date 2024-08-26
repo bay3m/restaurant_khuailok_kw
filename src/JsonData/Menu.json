@@ -3,35 +3,35 @@
         "lobster" : [
             {   
                 "name" : "shashimi lobster", 
-                "imgUrl" : "../../public/images/lobsterImages/shashimi_lobster.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/shashimi_lobster.jpeg"
             },
             {
                 "name" : "lobster lada hitam",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_lada_hitam.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_lada_hitam.jpeg"
             },
             {
                 "name" : "lobster saus tiram",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_saus_tiram.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_saus_tiram.jpeg"
             },
             {
                 "name" : "lobster stim bawang putih",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_stim_bawang_putih.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_stim_bawang_putih.jpeg"
             },
             {
                 "name" : "lobster stim",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_stim.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_stim.jpeg"
             },
             {
                 "name" : "lobster saus padang",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_saus_padang.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_saus_padang.jpeg"
             },
             {
                 "name" : "lobster lada garam",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_lada_garam.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_lada_garam.jpeg"
             },
             {
                 "name" : "lobster salad",
-                "imgUrl" : "../../public/images/lobsterImages/lobster_salad.jpeg"
+                "imgUrl" : "../public/images/lobsterImages/lobster_salad.jpeg"
             }
         ]
     },
@@ -40,27 +40,27 @@
         "clam" : [
             {
                 "name" : "kerang tauco",
-                "imgUrl" : "../../public/images/clamImages/kerang_tauco.jpeg"
+                "imgUrl" : "../public/images/clamImages/kerang_tauco.jpeg"
             },
             {
                 "name" : "kerang lada hitam",
-                "imgUrl" : "../../public/images/clamImages/kerang_lada_hitam.jpeg"
+                "imgUrl" : "../public/images/clamImages/kerang_lada_hitam.jpeg"
             },
             {
                 "name" : "kerang saus tiram",
-                "imgUrl" : "../../public/images/clamImages/kerang_saus_tiram.jpeg"
+                "imgUrl" : "../public/images/clamImages/kerang_saus_tiram.jpeg"
             },
             {
                 "name" : "kerang stim bawang putih",
-                "imgUrl" : "../../public/images/clamImages/kerang_stim_bawang_putih.jpeg"
+                "imgUrl" : "../public/images/clamImages/kerang_stim_bawang_putih.jpeg"
             },
             {
                 "name" : "kerang stim",
-                "imgUrl" : "../../public/images/clamImages/kerang_stim.jpeg"
+                "imgUrl" : "../public/images/clamImages/kerang_stim.jpeg"
             },
             {
                 "name" : "kerang saus padang",
-                "imgUrl" : "../../public/images/clamImages/kerang_saus_padang.jpeg"
+                "imgUrl" : "../public/images/clamImages/kerang_saus_padang.jpeg"
             },
             {
                 "name" : "lindung stim tausi",
@@ -68,15 +68,15 @@
             },
             {
                 "name" : "lindung cha fumak",
-                "imgUrl" : "../../public/images/clamImages/lindung_cha_fumak.jpg"
+                "imgUrl" : "../public/images/clamImages/lindung_cha_fumak.jpg"
             },
             {
                 "name" : "lindung goreng kering",
-                "imgUrl" : "../../public/images/clamImages/lindung_goreng_kering.jpeg"
+                "imgUrl" : "../public/images/clamImages/lindung_goreng_kering.jpeg"
             },
             {
                 "name" : "lindung lada hitam",
-                "imgUrl" : "../../public/images/clamImages/lindung_lada_hitam.jpeg"
+                "imgUrl" : "../public/images/clamImages/lindung_lada_hitam.jpeg"
             }
         ]         
     },

@@ -53,11 +53,15 @@ const MenuList = () => {
                                 <li key={`${category}-${itemIndex}`} 
                                     className={`menu_item ${removingItem && removingItem.category === category && removingItem.itemIndex === itemIndex ? 'removing' : ''}`}>
                                     
-                                    {item}
-                                    
-                                    <span onClick={() => handleRemoveItem(category, itemIndex)} className="material-symbols-outlined" id="add_menu_btn">
-                                        add
-                                    </span>
+                                    <div className="menu_name_wrapper">
+                                        {item.name}
+                                        
+                                        <span onClick={() => handleRemoveItem(category, itemIndex)} className="material-symbols-outlined" id="add_menu_btn">
+                                            add
+                                        </span>
+                                    </div>
+
+                                    <img src={item.imgUrl} alt="img not found"  className="menu_img"/>
                                 </li>
                             ))}
                         </ul>
