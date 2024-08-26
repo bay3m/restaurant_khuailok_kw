@@ -3,35 +3,35 @@
         "lobster" : [
             {   
                 "name" : "shashimi lobster", 
-                "imgUrl" : "../public/images/lobsterImages/shashimi_lobster.jpeg"
+                "imgUrl" : "/images/lobsterImages/shashimi_lobster.jpeg"
             },
             {
                 "name" : "lobster lada hitam",
-                "imgUrl" : "../public/images/lobsterImages/lobster_lada_hitam.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_lada_hitam.jpeg"
             },
             {
                 "name" : "lobster saus tiram",
-                "imgUrl" : "../public/images/lobsterImages/lobster_saus_tiram.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_saus_tiram.jpeg"
             },
             {
                 "name" : "lobster stim bawang putih",
-                "imgUrl" : "../public/images/lobsterImages/lobster_stim_bawang_putih.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_stim_bawang_putih.jpeg"
             },
             {
                 "name" : "lobster stim",
-                "imgUrl" : "../public/images/lobsterImages/lobster_stim.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_stim.jpeg"
             },
             {
                 "name" : "lobster saus padang",
-                "imgUrl" : "../public/images/lobsterImages/lobster_saus_padang.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_saus_padang.jpeg"
             },
             {
                 "name" : "lobster lada garam",
-                "imgUrl" : "../public/images/lobsterImages/lobster_lada_garam.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_lada_garam.jpeg"
             },
             {
                 "name" : "lobster salad",
-                "imgUrl" : "../public/images/lobsterImages/lobster_salad.jpeg"
+                "imgUrl" : "/images/lobsterImages/lobster_salad.jpeg"
             }
         ]
     },
@@ -40,43 +40,43 @@
         "clam" : [
             {
                 "name" : "kerang tauco",
-                "imgUrl" : "../public/images/clamImages/kerang_tauco.jpeg"
+                "imgUrl" : "/images/clamImages/kerang_tauco.jpeg"
             },
             {
                 "name" : "kerang lada hitam",
-                "imgUrl" : "../public/images/clamImages/kerang_lada_hitam.jpeg"
+                "imgUrl" : "/images/clamImages/kerang_lada_hitam.jpeg"
             },
             {
                 "name" : "kerang saus tiram",
-                "imgUrl" : "../public/images/clamImages/kerang_saus_tiram.jpeg"
+                "imgUrl" : "/images/clamImages/kerang_saus_tiram.jpeg"
             },
             {
                 "name" : "kerang stim bawang putih",
-                "imgUrl" : "../public/images/clamImages/kerang_stim_bawang_putih.jpeg"
+                "imgUrl" : "/images/clamImages/kerang_stim_bawang_putih.jpeg"
             },
             {
                 "name" : "kerang stim",
-                "imgUrl" : "../public/images/clamImages/kerang_stim.jpeg"
+                "imgUrl" : "/images/clamImages/kerang_stim.jpeg"
             },
             {
                 "name" : "kerang saus padang",
-                "imgUrl" : "../public/images/clamImages/kerang_saus_padang.jpeg"
+                "imgUrl" : "/images/clamImages/kerang_saus_padang.jpeg"
             },
             {
                 "name" : "lindung stim tausi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "lindung cha fumak",
-                "imgUrl" : "../public/images/clamImages/lindung_cha_fumak.jpg"
+                "imgUrl" : "/images/clamImages/lindung_cha_fumak.jpg"
             },
             {
                 "name" : "lindung goreng kering",
-                "imgUrl" : "../public/images/clamImages/lindung_goreng_kering.jpeg"
+                "imgUrl" : "/images/clamImages/lindung_goreng_kering.jpeg"
             },
             {
                 "name" : "lindung lada hitam",
-                "imgUrl" : "../public/images/clamImages/lindung_lada_hitam.jpeg"
+                "imgUrl" : "/images/clamImages/lindung_lada_hitam.jpeg"
             }
         ]         
     },
@@ -85,15 +85,15 @@
         "fish" : [  
             {
                 "name" : "sapo hoisom (sea cucumber)",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/sapo_hoisom.jpeg"
             },
             {
                 "name" : "kerapu stim hongkong",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/kerapu_stim_hongkong.jpeg"
             },
             {
                 "name" : "bawal stim hongkong",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/bawal_stim_hongkong.jpeg"
             },
             {
                 "name" : "kerapu stim ala khuailok",
@@ -101,31 +101,31 @@
             },
             {
                 "name" : "kerapu stim tausi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/kerapu_stim_tausi.jpeg"
             },
             {
                 "name" : "kerapu stim kiamboy",
-                "imgUrl" : "#"
+                "imgUrl" : "/imagesfishImages//kerapu_stim_kiamboy.jpg"
             },
             {
                 "name" : "gurame goreng tausi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/gurame_goreng_tausi.jpg"
             },
             {
                 "name" : "gurame goreng kering",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/gurame_goreng_kering.jpeg"
             },
             {
                 "name" : "gurame goreng asam manis",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/gurame_asam_manis.jpeg"
             },
             {
                 "name" : "gurame goreng tauco",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/gurame_goreng_tauco,jpg"
             },
             {
                 "name" : "gurame goreng rujak",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/gurame_goreng_rujak.jpg"
             },
             {
                 "name" : "gurame goreng kari",
@@ -137,19 +137,19 @@
             },
             {
                 "name" : "ikan lempah kuning bangka",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/ikan_lempah_kuning_bangka.jpeg"
             },
             {
                 "name" : "ikan asam pedas",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/ikan_asam_pedas.jpeg"
             },
             {
                 "name" : "ikan kuah talas",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/ikan_kuah_talas.jpg"
             },
             {
                 "name" : "ikan stim kiamboy",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/fishImages/ikan_stim_kiamboy.jpg"
             }
         ]
     },
@@ -162,39 +162,39 @@
             },
             {
                 "name" : "udang gandum",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_gandung.jpg"
             },
             {
                 "name" : "udang cabe garam",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_cabe_garam.jpeg"
             },
             {
                 "name" : "udang saus padang",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_saus_padang.jpeg"
             },
             {
                 "name" : "udang shizuan",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_shizuan.webp"
             },
             {
                 "name" : "udang telur asin",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_telur_asin.jpeg"
             },
             {
                 "name" : "udang goreng tepung",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_goreng_tepung.jpeg"
             },
             {
                 "name" : "udang mayonaise",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_mayonaise.jpeg"
             },
             {
                 "name" : "udang rebus",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_rebus.jpeg"
             },
             {
                 "name" : "udang mabok",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/shrimpImages/udang_mabok.jpg"
             }
         ]
     },
@@ -203,15 +203,15 @@
         "soup" : [
             {
                 "name" : "sup hisit (sirip hiu)",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/sup_hisit.jpeg"
             },
             {
                 "name" : "sup asparagus",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/sup_asparagus.jpeg"
             },
             {
                 "name" : "sup jagung",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/sup_jagung.jpeg"
             },
             {
                 "name" : "kuah hipiaw",
@@ -219,31 +219,31 @@
             },
             {
                 "name" : "kuah samkiti",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/kuah_samkiti.jpeg"
             },
             {
                 "name" : "kuah seafood",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/kuah_seafood.jpeg"
             },
             {
                 "name" : "kuah kembang tahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/kuah_kembang_tahu.jpeg"
             },
             {
                 "name" : "hotplate kangkung",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/hotplate_kangkung.jpeg"
             },
             {
                 "name" : "hotplate ikan",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/hotplate_ikan.jpeg"
             },
             {
                 "name" : "hotplate tahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/hotplate_tahu.jpeg"
             },
             {
                 "name" : "shabu-shabu set menu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/soupImages/shabu_shabu_set.jpeg"
             }
         ]
     },
@@ -252,23 +252,23 @@
         "toad" : [
             {
                 "name" : "kodok goreng mentega",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kodok cha sayur asin",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kodok tauco",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kodong goreng tepung",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bistik kodok",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     },
@@ -277,39 +277,39 @@
         "noodles" : [
             {
                 "name" : "soun goreng",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kwetiaw goreng",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bihun goreng",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "mie goreng ultah",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bihun/kwetiaw/mie/soun goreng seafood",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bihun/kwetiaw/mie/soun goreng sapi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bihun/kwetaiw siram",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "mie/bihun kuah daging",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "yi fu mie",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     },
@@ -318,51 +318,51 @@
         "chicken" : [
             {
                 "name" : "ayam saus lemon",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam nankin",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam goreng tepung",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam singapore",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam madu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam stim obat",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam goreng khuailok",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam kungpao",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bistik ayam",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam pekchamke",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ayam goreng mentega",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kao ji (deep fried whole chicken)",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     },
@@ -371,39 +371,39 @@
         "crab" : [
             {
                 "name" : "kepiting stim bawang putih",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kepiting saus padang",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kepiting saus lada hitam",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kepiting saus tiram",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kepiting sapo",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kari kepiting",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kepiting telor asin",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kepiting butter",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "fuyunghai",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     },
@@ -412,35 +412,35 @@
         "tofu" : [
             {
                 "name" : "angsio tahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "sapo tahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "tahu ala khuailok",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "muntahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "mapo tahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "mun hipiaw",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "slada hongking nyong tahu",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "hakka style stuffed tofu gado-gado",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     },
@@ -449,71 +449,71 @@
         "vegetables" : [
             {
                 "name" : "kapri madu cah bawang putih",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "pare cah bawang putih",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "pochai cah 3 telur",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "tomiau cah bawang putih",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "baby buncis sapi szechuan",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "baby pokchoi cah jamur",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "ginko cah udang",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "brokoli scallop",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kailan cah sapi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kucai cah bawang putih",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "seledri cah ginko",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kailan 2 rasa",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "tauge cah ikan asin",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "kailan scallop kering",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "pocai cah jamur",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "sayur hitam abalone",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "jamur enoki goreng tepung",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     },
@@ -522,59 +522,59 @@
         "pork" : [
             {
                 "name" : "babi panggang",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "babi merah",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "gohyong",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "bistik babi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "stim babi hakka",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "cukiok asam manis",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "mun cukiok",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "phaikut goreng kering",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "phaikut asam manis",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "khew nyuk",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "lang pan",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "babi goreng wijen",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "zhu thew phi (braised pig cheek & ear)",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             },
             {
                 "name" : "sate babi",
-                "imgUrl" : "#"
+                "imgUrl" : "/images/"
             }
         ]
     }
