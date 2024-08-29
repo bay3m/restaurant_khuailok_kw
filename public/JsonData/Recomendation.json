@@ -1,41 +1,26 @@
 [
     {
-        "title" : "babi panggang",
-        "imageUrl" : "../images/babi_panggang.jpeg"
+        "title" : "ayam goreng tepung",
+        "imageUrl" : "/images/recomendationImages/ayam_goreng_tepung.jpg"
     },
 
     {
-        "title" : "babi merah",
-        "imageUrl" : "../images/babi_merah.jpeg"
+        "title" : "ayam saus lemon",
+        "imageUrl" : "/images/recomendationImages/lemon_chicken.jpg"
     },
 
     {
-        "title" : "fuyunghai",
-        "imageUrl" : "../images/fuyunghai.jpeg"
+        "title" : "mie goreng seafood",
+        "imageUrl" : "/images/recomendationImages/mie_goreng_seafood.jpg"
     },
 
     {
-        "title" : "ayam goreng khuailok",
-        "imageUrl" : "../images/ayam_goreng_khuailok.jpeg"
+        "title" : "sate babi",
+        "imageUrl" : "/images/recomendationImages/sate_babi.jpg"
     },
 
     {
-        "title" : "udang goreng mentega",
-        "imageUrl" : "../images/udang_goreng_mentega.jpeg"
-    },
-
-    {
-        "title" : "gurame goreng asam manis",
-        "imageUrl" : "../images/gurame_goreng_asam_manis.jpeg"
-    },
-
-    {
-        "title" : "kodok goreng mentega",
-        "imageUrl" : "../images/kodok_goreng_mentega.jpg"
-    },
-
-    {
-        "title" : "kepiting butter",
-        "imageUrl" : "../images/kepiting_butter.jpg"
+        "title" : "shabu shabu",
+        "imageUrl" : "/images/recomendationImages/shabu_shabu.jpg"
     }
 ]

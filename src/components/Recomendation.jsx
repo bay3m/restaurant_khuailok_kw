@@ -53,7 +53,7 @@ function Recomendation() {
                     <div className="arrow_wrapper">
                         <div className="arrow" id="left" onClick={handleLeftClick}></div>
                     </div>
-                    <p id="menu_recomendation_name">{data && data[currentIndex].title}</p>
+                    <p id="menu_recomendation_name" className="comic-neue-bold">{data && data[currentIndex].title}</p>
                     <div className="arrow_wrapper">
                         <div className="arrow" id="right" onClick={handleRightClick}></div>
                     </div>
