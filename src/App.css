@@ -1,8 +1,8 @@
 :root{
-    --color1: #FFEAC5;
-    --color2: #FFDBB5;
-    --color3: #6C4E31;
-    --color4: #603F26;
+    --color1: #27374D;
+    --color2: #526D82;
+    --color3: #9DB2BF;
+    --color4: #DDE6ED;
 }
 
 .comic-neue-bold {
@@ -231,6 +231,12 @@ span.add_symbol{
     cursor: pointer;
 }
 
+#recomendation_title{
+    margin: 10px;
+    text-transform: capitalize;
+    color: var(--color3);
+}
+
 /* Footer---------------------------------------------------------------------------------------------------------------- */
 
 .footer{
@@ -246,4 +252,33 @@ span.add_symbol{
     font-size: large;
     color: var(--color1);
     width: fit-content;
+}
+/* About----------------------------------------------------------------------------------------------------------------- */
+
+.about{
+    height: 100vh;
+    display: flex;
+}
+
+#about_left{
+    width: 70%;
+    /* background-color: saddlebrown; */
+    padding: 10px;
+}
+
+#about_left > h2 {
+    text-transform: capitalize;
+    margin: 15px;
+    color: var(--color3);
+}
+
+#about_left > p {
+    margin: 10px;
+    padding: 10px;
+    color: var(--color4);
+}
+
+#about_right{
+    width: 30%;
+    padding: 10px;
 }
