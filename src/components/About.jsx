@@ -37,6 +37,7 @@ const About = () => {
                         loading="lazy"
                         referrerPolicy="no-referrer-when-downgrade"
                     />
+                    <p id="below_map">*this is the real Khuailok btw, the displayed menus are real, except the images</p>
                 </div>
             </div>
 

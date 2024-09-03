@@ -284,6 +284,12 @@ span.add_symbol{
     padding: 10px;
 }
 
+#below_map{
+    font-style: italic;
+    color: var(--color4);
+    font-size: 15px;
+}
+
 .after_about{
     display: flex;
     width: 100%;
