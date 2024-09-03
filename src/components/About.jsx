@@ -39,6 +39,24 @@ const About = () => {
                     />
                 </div>
             </div>
+
+            <div className="after_about">
+
+                <div id="after_about_left">
+                    <img src="../../public/images/cooking.jpg" alt="" />
+                    <p>Source: <a href="https://www.freepik.com/free-photo/cooking-process-asian-restaurant-cook-is-fry-vegetables-with-spices-sauce-wok_28638252.htm#fromView=search&page=1&position=6&uuid=77131429-7810-46fd-88fc-f094b4861c1c">Image by fxquadro on Freepik</a></p>
+                </div>
+
+                <div id="after_about_right">
+                    <h2>Cooked with passion</h2>
+
+                    <p className="comic-neue-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Est labore ratione assumenda quidem consequatur ea quos aliquid excepturi praesentium! Quod officiis ab vero necessitatibus assumenda maiores corporis culpa repellendus ipsum.</p>
+
+                    <p className="comic-neue-bold">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta officiis obcaecati sint inventore. Ex impedit autem ad delectus molestias. Autem fugiat dolorum nemo eaque ratione possimus, pariatur iure? Veritatis, ab!</p>
+                </div>  
+
+            </div>
+
             <Footer />
         </>
     );

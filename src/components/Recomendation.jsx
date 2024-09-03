@@ -48,7 +48,6 @@ function Recomendation() {
 
             <div id="wrapper">
                 
-
                 <div id="outSideBox" style={{ backgroundImage : `url(${data && data[currentIndex].imageUrl})` }}>
                     <div className="arrow_wrapper">
                         <div className="arrow" id="left" onClick={handleLeftClick}></div>
